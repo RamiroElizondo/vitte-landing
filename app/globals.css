@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer base {
+  :root {
+    /* Vitta Café Theme - Turquoise/Teal based */
+    --background: 40 30% 98%;
+    --foreground: 150 10% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 150 10% 20%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 10% 20%;
+    --primary: 174 50% 45%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 174 30% 92%;
+    --secondary-foreground: 174 50% 30%;
+    --muted: 40 20% 96%;
+    --muted-foreground: 150 10% 45%;
+    --accent: 120 35% 45%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 174 20% 88%;
+    --input: 174 20% 88%;
+    --ring: 174 50% 45%;
+    --chart-1: 174 50% 45%;
+    --chart-2: 120 35% 45%;
+    --chart-3: 30 30% 40%;
+    --chart-4: 174 40% 60%;
+    --chart-5: 120 30% 55%;
+    --radius: 1rem;
+    --coffee: 30 30% 25%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
