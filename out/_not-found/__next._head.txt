@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[94023,["/_next/static/chunks/e126be3f4b8f01fe.js","/_next/static/chunks/3f9794d9ebfe4604.js"],"ViewportBoundary"]
+3:I[94023,["/_next/static/chunks/e126be3f4b8f01fe.js","/_next/static/chunks/3f9794d9ebfe4604.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"mVNjGgIhS0i5ZD6rfb8Fj","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Vitta Café | Tu pausa, tu café"}],["$","meta","1",{"name":"description","content":"Café de especialidad en San Juan. Un espacio para disfrutar, encontrarte y vivir la experiencia del buen café."}],["$","meta","2",{"name":"keywords","content":"café,coffee,San Juan,café de especialidad,Vitta"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
